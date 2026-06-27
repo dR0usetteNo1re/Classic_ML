@@ -20,3 +20,5 @@ The main objective of K-Means is to find the centroids that minimize the squared
 **Cost Function (Inertia):**
 
 $$J = \sum_{j=1}^K \sum_{x_i \in C_j} ||x_i - \mu_j||^2$$
+1. `K-Means Clustering - Practice.ipynb` - Using `DATA/bank-full.csv` dataset.
+2. `K-Means - Naked` - Realization using Python functions only.
